@@ -36,4 +36,4 @@ vsim -do run.do
 
 This project was prepared for the ELE432 assignment.
 
-```
+file:///home/kbincikli/Pictures/Screenshots/Screenshot%20from%202026-03-19%2022-13-30.png
