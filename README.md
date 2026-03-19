@@ -34,6 +34,7 @@ To run the simulation:
 vsim -do run.do
 ````
 
-This project was prepared for the ELE432 assignment.
+This project was prepared for the  ELE432 assignment.
 
-file:///home/kbincikli/Pictures/Screenshots/Screenshot%20from%202026-03-19%2022-13-30.png
+<img width="742" height="144" alt="Screenshot from 2026-03-19 22-13-30" src="https://github.com/user-attachments/assets/e6bd7cc5-af3d-4b42-b0c2-77434c333090" />
+<img width="742" height="144" alt="Screenshot from 2026-03-19 22-13-30" src="https://github.com/user-attachments/assets/e6bd7cc5-af3d-4b42-b0c2-77434c333090" />
