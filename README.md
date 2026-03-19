@@ -1,4 +1,3 @@
-````md
 # Traffic Light FSM
 
 This project implements a 4-state traffic light controller in SystemVerilog and simulates its behavior in Questa.
@@ -33,5 +32,4 @@ vsim -do run.do
 
 This project was prepared for the ELE432 assignment.
 
-```
 ```
